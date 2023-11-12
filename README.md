@@ -1,4 +1,6 @@
-# Deployed verson of app link here: https://netflixclone-react-f9d09.web.app
+# Deployed link of app  here
+
+[click the link]( https://netflixclone-react-f9d09.web.app)
 
 # Getting Started with Create React App
 
