@@ -1,3 +1,5 @@
+#deployed verson of app link here: https://netflixclone-react-f9d09.web.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
